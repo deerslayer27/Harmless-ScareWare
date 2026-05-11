@@ -1,2 +1,4 @@
 # Harmless-ScareWare
-I made a harmless ScareWare virus using python. It uses an overlay so task manager can't open on top of anything. 
+I ASSUME NO DAMAGES: IT SHOUNDN'T AFFECT ANYTHING BUT EVEN IF IT DOES I AM NOT RESPONSIBLE.
+I reccomend you run in a Virtual Machine, I tested this one in Oracle Virtual Box. 
+The "Esc" Key is the kill switch
